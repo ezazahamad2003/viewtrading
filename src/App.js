@@ -218,7 +218,7 @@ function App() {
         </Details>
       </DisplayBox>
       <Footer>
-        Bulit & Designed By S. Dasgupta
+        Bulit & Designed By S. Dasgupta & Ezaz Ahamad.
       </Footer>
     </Wrapper>
   );
